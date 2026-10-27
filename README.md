@@ -1,129 +1,75 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">🎓 CSE Student | 🤖 Probabilistic AI Enthusiast </h3>
+<div align="center">
+
+# Hi, I'm Sunil Kumar 👋
+
+**Computer Science Undergrad @ VIT Vellore | Building at the intersection of Applied AI, Computer Vision, and Probabilistic Modelling**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b--sunil--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sunil-kumar-9a422a1b0/)
+[![Email](https://img.shields.io/badge/Email-s2kumar2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s2kumar2007@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## What I'm up to
 
-* 🔭 Currently contributing to **pgmpy (Probabilistic Graphical Models library)**
-* 🧠 Focused on **Bayesian Networks & Probabilistic AI**
-* ⚙️ Interested in improving real-world AI systems
-* 🌱 Continuously learning advanced concepts in AI & ML
+**🔭 Building**
+- **Vision-based drivable region estimation for lane-less roads**: a lightweight MobileNetV3-encoder U-Net with confidence estimation, terrain-aware decisions, and a knowledge-distilled student model for embedded deployment. [View repo](https://github.com/s2kumar2007/ATWFS)
+- **CatalogIQ**: a multi-agent pipeline that audits, validates, and enriches industrial product catalogs with explainable, confidence-scored outputs.
+- **Open source**: contributing to [pgmpy](https://github.com/pgmpy/pgmpy), the Python library for Probabilistic Graphical Models.
 
----
+**🌱 Learning**
+- Bayesian Networks, causal inference, and uncertainty quantification for reliable AI systems.
+- Model compression (distillation, quantization, pruning) for edge deployment.
 
-## 🧠 Current Learning
-
-* **Probabilistic Graphical Models**
-
-  * Bayesian Networks (Structure & Parameter Learning)
-  * Exact & Approximate Inference (Variable Elimination, Sampling)
-
-* **pgmpy Internals**
-
-  * Model architecture & CPDs
-  * Inference engine optimization
-  * Utility & performance improvements
-
-* **Mathematics for AI**
-
-  * Probability Theory
-  * Conditional Independence
-  * Optimization basics
-
-* **Advanced Exploration**
-
-  * Causal Inference
-  * Graph-based AI models
+**🏆 Recognition**
+- **Winner, Google Hackathon**: [CleanAir & Clear Streets](https://github.com/aryankalra404/CleanAir-Clear-Streets), neighborhood-level air quality intelligence for Indian cities.
+- **2nd Place, HackSprint**, conducted by MAHE, Bengaluru.
+- Best Software Project Award, VIT Engineers Day 2026.
 
 ---
 
-## 🤝 Open Source
+## Tech Stack
 
-* 👯 Looking to collaborate on **AI/ML & Probabilistic Models**
-* 🤝 Seeking help in **advanced inference & optimization techniques**
+**Languages**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
----
+**AI / ML & Data**
 
-## 💬 Ask Me About
+![pgmpy](https://img.shields.io/badge/-pgmpy-4B8BBE?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
 
-* 🐍 Python & Problem Solving
-* 🧠 Bayesian Networks
-* 📊 pgmpy usage & basics
-* 🔍 Probability & Inference
-* 🛠️ Open Source Contribution
+**Tools**
 
----
-
-## 💼 Skills
-
-### 👨‍💻 Programming
-
-* Python (Strong)
-* C++
-* Basic Java
-* C
-
-### 🧠 AI / ML
-
-* Probabilistic Graphical Models
-* Bayesian Networks
-* Machine Learning Basics
-
-### ML Libraries & Frameworks
-
-pgmpy (Bayesian Modeling & Inference)
-
-scikit-learn (ML algorithms, preprocessing, evaluation)
-
-NumPy (Numerical Computing)
-
-Pandas (Data Analysis & Manipulation)
-
-Matplotlib / Seaborn (Data Visualization)
-
-### 🛠️ Tools
-
-* Git & GitHub
-* VS Code
-* Linux
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s2kumar2007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s2kumar2007&theme=tokyonight" />
-</p>
+<div align="center">
 
-## 📌 Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s2kumar2007&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s2kumar2007&layout=compact&hide_border=true)
 
-* 🔹 Enhancing usability & performance
-* 🔹 Exploring AI-based solutions
-
----
-## 📫 Connect With Me
-
-* 📧 [s2kumar2007@gmail.com](mailto:s2kumar2007@gmail.com)
-* 💻 https://github.com/s2kumar2007
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## Connect
 
-I enjoy solving complex problems and turning ideas into real working code 💡
+I'm open to collaborating on **AI/ML, computer vision, and open-source projects**.
 
----
-
-## 🔥 Profile Views
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=s2kumar2007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
-
----
-
-⭐ *Focused on building intelligent systems using probability, logic, and code*
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/b-sunil-kumar-9a422a1b0/)
+- 📧 [s2kumar2007@gmail.com](mailto:s2kumar2007@gmail.com)
